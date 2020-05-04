@@ -17,4 +17,4 @@ All username, passwords are stores in the `database.env` file
 3 - Add new Server:
   - Hostname: postgres
   - Username: `POSTGRES_USER`
-  - Password: POSTGRES_PASSWORD
+  - Password: `POSTGRES_PASSWORD`
